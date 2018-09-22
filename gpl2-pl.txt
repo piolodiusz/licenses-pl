@@ -386,11 +386,12 @@ Powinieneś też poprosić swego pracodawcę (jeśli pracujesz jako
 programista) czy też swoją szkołę (jeśli jesteś uczniem),
 o podpisanie, w razie potrzeby, "Rezygnacji z praw autorskich"
 do programu. Poniżej podajemy przykład (zmień nazwy/nazwiska):
+1234567123456712345671234567123456712345671234567123456712345671234567
 
   My, firma Jojodyne Sp. z o.o. niniejszym zrzekamy się
   i rezygnujemy z wszelkich interesów prawnych w zakresie
   praw autorskich do programu "Gnomovision" (który realizuje
-  następujące funkcje...), napisanego przez p.Jana Kowalskiego.
+  następujące funkcje...), napisanego przez pana Jana Kowalskiego.
 
   <podpis>, 1 kwietnia 1989
   Ty Coon, Prezydent Vice
