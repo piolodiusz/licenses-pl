@@ -1,6 +1,11 @@
-﻿This translation of the GPL is informal, and not officially approved by the Free Software Foundation as valid. To be completely sure of what is permitted, refer the original GPL (in English).
+﻿This translation of the GPL is informal, and not officially approved
+by the Free Software Foundation as valid. To be completely sure
+of what is permitted, refer the original GPL (in English).
 
-To tłumaczenie GPL jest nieformalne i nie jest oficjalnie zatwierdzone przez Free Software Foundation jako wiążące. Pełną pewność, co do tego, co jest dozwolone, uzyskasz odwołując się do oryginalnej GPL (w języku angielskim).
+To tłumaczenie GPL jest nieformalne i nie jest oficjalnie
+zatwierdzone przez Free Software Foundation jako wiążące. Pełną
+pewność, co do tego, co jest dozwolone, uzyskasz odwołując się
+do oryginalnej GPL (w języku angielskim).
 
 
                     GNU POWSZECHNA LICENCJA PUBLICZNA
@@ -8,8 +13,9 @@ To tłumaczenie GPL jest nieformalne i nie jest oficjalnie zatwierdzone przez Fr
 
  Copyright © 1989, 1991 Free Software Foundation, Inc., 675 Mass Ave,
  Cambridge, MA 02139 USA. 
- Zezwala się na kopiowanie i rozpowszechnianie wiernych kopii niniejszego
- dokumentu licencyjnego, jednak bez prawa wprowadzania zmian.
+ Zezwala się na kopiowanie i rozpowszechnianie wiernych kopii
+ niniejszego dokumentu licencyjnego, jednak bez prawa wprowadzania
+ zmian.
  
                             Preambuła
 
