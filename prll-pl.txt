@@ -1,0 +1,9 @@
+﻿
+ PIOLODIUSZ LICENCJA REPOZYTORIUM LICENSES-PL
+ Wersja 1, Wrzesień 2018
+ Copyright (C) 2018 Piolodiusz
+ Radom, Polska
+ PIOLODIUSZ LICENCJA REPOZYTORIUM LICENSES-PL
+ REGULAMIN DLA KOPIOWANIA, DYSTRYBUCJI I MODYFIKACJI
+ 0. Możesz modyfikować i kopiować pliki tego repozytorium,
+ kiedy zmienisz nazwę zmodyfikowanego pliku.
