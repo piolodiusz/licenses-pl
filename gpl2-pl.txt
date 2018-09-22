@@ -393,7 +393,7 @@ do programu. Poniżej podajemy przykład (zmień nazwy/nazwiska):
   następujące funkcje...), napisanego przez pana Jana Kowalskiego.
 
   <podpis>, 1 kwietnia 1989
-  Ty Coon, Prezydent Vice
+  Ty Coon, Prezes Vice
 
 Powszechna Licencja Publiczna nie zezwala na włączanie twego programu
 do programów prawnie zastrzeżonych. Jeśli twój program jest biblioteką
