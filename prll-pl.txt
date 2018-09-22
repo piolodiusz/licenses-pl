@@ -1,4 +1,10 @@
-﻿
+﻿This translation of the license is informal. To be completely sure
+of what is permitted, refer the original version (in English).
+
+To tłumaczenie licencji jest nieformalne. Pełną
+pewność, co do tego, co jest dozwolone, uzyskasz odwołując się
+do oryginalnej wersji (w języku angielskim).
+
  PIOLODIUSZ LICENCJA REPOZYTORIUM LICENSES-PL
  Wersja 1, Wrzesień 2018
  Copyright (C) 2018 Piolodiusz
