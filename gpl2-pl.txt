@@ -11,7 +11,7 @@ do oryginalnej GPL (w języku angielskim).
                     GNU POWSZECHNA LICENCJA PUBLICZNA
                          Wersja 2, czerwiec 1991
 
- Copyright © 1989, 1991 Free Software Foundation, Inc., 675 Mass Ave,
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc., 675 Mass Ave,
  Cambridge, MA 02139 USA. 
  Zezwala się na kopiowanie i rozpowszechnianie wiernych kopii
  niniejszego dokumentu licencyjnego, jednak bez prawa wprowadzania
