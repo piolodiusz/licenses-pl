@@ -1,0 +1,44 @@
+﻿This translation of the license is informal. To be completely sure
+of what is permitted, refer the original version (in English).
+
+To tłumaczenie licencji jest nieformalne. Pełną
+pewność, co do tego, co jest dozwolone, uzyskasz odwołując się
+do oryginalnej wersji (w języku angielskim).
+
+
+
+3-klauzulowa licencja BSD
+
+Copyright (c) 2018, <autor>
+Wszelkie prawa zastrzeżone.
+
+Redystrybucja i wykorzystanie w formie źródłowej i binarnej,
+z lub bez modyfikacji, są dozwolone, o ile spełnione są następujące
+warunki:
+
+* Redystrybucja kodu źródłowego musi zawierać powyższą informację
+  o prawach autorskich, niniejszą listę warunków
+  i poniższe zastrzeżenie.
+
+* Redystrybucja w formie binarnej musi zawierać powyższą informację
+  o prawach autorskich, niniejszą listę warunków
+  i poniższe zastrzeżenie w dokumentacji i / lub innych materiałach
+  dostarczonych wraz z dystrybucją.
+
+* Nazwisko autora nie może być używane do promowania produktów
+  trzecich z tego oprogramowania bez uprzedniej pisemnej zgody.
+
+NINIEJSZE OPROGRAMOWANIE JEST DOSTARCZANE PRZEZ WŁAŚCICIELI PRAW
+AUTORSKICH I WSPÓŁPRACOWNIKÓW "W STANIE TAKIM, W JAKIM SIĘ ZNAJDUJE"
+I ŻADNE BEZPOŚREDNIE LUB INNE GWARANCJE, W TYM GWARANCJE PRZYDATNOŚCI
+HANDLOWEJ I PRZYDATNOŚCI DO OKREŚLONEGO CELU, ZOSTAJĄ NINIEJSZYM
+WYKLUCZONE. W ŻADNYM WYPADKU WŁAŚCICIEL PRAW AUTORSKICH
+ANI WSPÓŁPRACOWNICY NIE PONOSZĄ ODPOWIEDZIALNOŚCI ZA ŻADNE
+BEZPOŚREDNIE, POŚREDNIE, PRZYPADKOWE, SZCZEGÓLNE, PRZYKŁADOWE
+LUB WTÓRNE SZKODY (W TYM MIĘDZY INNYMI, ZAANGAŻOWANIE ZASTĘPCZYCH
+TOWARÓW LUB USŁUG, UTRATĘ WYKORZYSTANIA, DANYCH LUB ZYSKÓW;
+LUB PRZERWANIE DZIAŁALNOŚCI) SPOWODOWANE JEDNAK W JAKIEJKOLWIEK TEORII
+ODPOWIEDZIALNOŚCI, W CELU UMOWY, ODPOWIEDZIALNOŚCI PRAWNEJ LUB CZYNNEJ
+(W TYM ZANIEDBAŃ LUB W INNY SPOSÓB) WYNIKAJĄCE Z JAKIEGOKOLWIEK
+SPOSOBU WYKORZYSTANIA NINIEJSZEGO OPROGRAMOWANIA, NAWET JEŚLI ZOSTAŁY
+POINFORMOWANE O MOŻLIWOŚCI WYSTĄPIENIA TAKICH SZKÓD.
