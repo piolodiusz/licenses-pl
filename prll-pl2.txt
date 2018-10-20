@@ -6,12 +6,22 @@ pewność, co do tego, co jest dozwolone, uzyskasz odwołując się
 do oryginalnej wersji (w języku angielskim).
 
 
+             MOŻESZ WYBRAĆ LICENCJĘ
+
 
  PIOLODIUSZ LICENCJA REPOZYTORIUM LICENSES-PL
- Wersja 1, Wrzesień 2018
+ Wersja 2, Październik 2018
  Copyright (C) 2018 Piolodiusz
  Radom, Polska
  PIOLODIUSZ LICENCJA REPOZYTORIUM LICENSES-PL
  REGULAMIN DLA KOPIOWANIA, DYSTRYBUCJI I MODYFIKACJI
  0. Możesz modyfikować i kopiować pliki tego repozytorium,
  kiedy zmienisz nazwę zmodyfikowanego pliku.
+
+ AUTOR NIE UDZIELA ŻADNYCH GWARANCJI NA PLIKI W ZAKRESIE DOZWOLONYM
+ PRZEZ PRAWO.
+
+                                 ALBO
+
+ Creative Commons Uznanie autorstwa 4.0 Międzynarodowe
+ https://creativecommons.org/licenses/by/4.0/deed.pl
