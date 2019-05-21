@@ -10,12 +10,12 @@ do oryginalnej wersji (w języku angielskim).
 
 
  PIOLODIUSZ LICENCJA REPOZYTORIUM LICENSES-PL
- Wersja 2, Październik 2018
- Copyright (C) 2018 Piolodiusz
+ Wersja 3, Maj 2019
+ Copyright (C) 2018-2019 Piolodiusz
  Radom, Polska
  PIOLODIUSZ LICENCJA REPOZYTORIUM LICENSES-PL
  REGULAMIN DLA KOPIOWANIA, DYSTRYBUCJI I MODYFIKACJI
- 0. Możesz modyfikować i kopiować pliki tego repozytorium,
+ 0. Możesz modyfikować, usuwać i kopiować pliki tego repozytorium,
  kiedy zmienisz nazwę zmodyfikowanego pliku.
 
  AUTOR NIE UDZIELA ŻADNYCH GWARANCJI NA PLIKI W ZAKRESIE DOZWOLONYM
